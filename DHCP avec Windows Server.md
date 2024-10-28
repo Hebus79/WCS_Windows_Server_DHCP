@@ -22,18 +22,19 @@ CLIWIN01 sous Windows 10
 
 1) Paramétrage de l'adresse IP fixe du serveur
 
-![vmname](/Images/0-Configuration%20adresse%20IP%20fixe%20pour%20le%20serveur%20DHCP.png)
+
 
 2) Paramétrage du nom du serveur
 
 
-![vmname](/Images/1-Changement%20nom%20du%20serveur.png)
+![Image](/Images/1-Changement%20nom%20du%20serveur.png)
 
 
 3) Installation du role serveur DHCP
 
    ![Image](/Images/2-Gérer-Ajouter%20des%20roles%20et%20fonctionnalités.png)
+   ![Image](/Images/3-Installation%20basé%20sur%20un%20role%20ou%20une%20fonctionnalité.png)
 
 
-5) 
+5) xxxxxxxxxxxxx 
 
