@@ -22,7 +22,7 @@ CLIWIN01 sous Windows 10
 
 1) Paramétrage de l'adresse IP fixe du serveur
 
-
+![Image](/Images/0-Configuration%20adresse%20IP%20fixe%20pour%20le%20serveur%20DHCP.png)
 
 2) Paramétrage du nom du serveur
 
