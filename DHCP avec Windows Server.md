@@ -36,5 +36,19 @@ CLIWIN01 sous Windows 10
    ![Image](/Images/3-Installation%20basé%20sur%20un%20role%20ou%20une%20fonctionnalité.png)
 
 
-5) xxxxxxxxxxxxx 
+4) Selection du serveur de destination
+
+   ![Image](/Images/4-Selection%20du%20serveur%20de%20destination.png)
+
+5) Ajout des fonctionnalités requises pour le serveur WINSERV01-DHCP
+
+  ![Image](/Images/5-Ajout_des_fonctionnalités_pour_requises_pour_serveur_WINSERV01-DHCP.png)
+
+6) Confirmation des selections d'installations
+
+![Image](/Images/6-Confirmation%20des%20selections%20d'installations.png)
+
+7) 
+
+
 
